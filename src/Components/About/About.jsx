@@ -22,21 +22,21 @@ const AboutSection = () => {
           <div className="w-full h-[150px] sm:h-[200px] lg:h-[250px]">
             <img
               className="w-full h-full object-cover rounded-lg"
-              src="/src/assets/features/product_1.png"
+              src="/assets/features/product_1.png"
               alt="About Image 1"
             />
           </div>
           <div className="w-full h-[150px] sm:h-[200px] lg:h-[250px]">
             <img
               className="w-full h-full object-cover rounded-lg"
-              src="/src/assets/features/product_2.png"
+              src="/assets/features/product_2.png"
               alt="About Image 2"
             />
           </div>
           <div className="w-full h-[150px] sm:h-[200px] lg:h-[250px] sm:col-span-2">
             <img
               className="w-full h-full object-cover rounded-lg"
-              src="/src/assets/features/product_5.png"
+              src="/assets/features/product_5.png"
               alt="About Image 3"
             />
           </div>

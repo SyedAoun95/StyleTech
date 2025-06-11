@@ -16,7 +16,7 @@ const Categories = () => {
             image: "/assets/categories/categories_2.jpg",
         },
         {
-            title: "Single Glaze Glass(4-12mm)",
+            title: "Laminated Glass(4-12mm)",
             products: "tempered Glass with sleek designs of your choice",
             image: "/assets/categories/categories_3.jpg",
         },

@@ -4,11 +4,11 @@ const Brand = () => {
     const brands = [
         {
             id: 1,
-            image: "src/assets/brands/Ghani glass logo.jpeg"
+            image: "/assets/brands/Ghani glass logo.jpeg"
         },
         {
             id: 2,
-            image: "src/assets/brands/Tariq glass logo.jpeg"
+            image: "/assets/brands/Tariq glass logo.jpeg"
         },
         // {
         //     id: 3,

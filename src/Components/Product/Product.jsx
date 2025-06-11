@@ -16,7 +16,7 @@ const Product = () => {
     {
       title: "Georgian Bar Special Designs Windows",
       status: "New",
-      image: "/assets/products/product_1.png",
+      image: "/assets/products/img1.jpg",
       product: "newest",
     },
     {
@@ -75,7 +75,7 @@ const Product = () => {
       status: "New",
     //   price: "$250",
     //   currentPrice: "$200",
-      image: "/assets/products/product_1.png",
+      image: "/assets/products/img1.jpg",
       product: "best_seller",
     },
     {
@@ -121,7 +121,7 @@ const Product = () => {
       product: "featured",
     },
     {
-      title: "Georgian Bar Special Designs Windows",
+      title: "/assets/products/img1.jpg",
       status: "Sales",
     //   price: "$250",
       image: "/assets/products/product_1.png",
@@ -180,7 +180,7 @@ const Product = () => {
       title: "Georgian Bar Special Designs Windows",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_1.png",
+      image: "/assets/products/img2.jpg",
       product: "all",
     },
   ];

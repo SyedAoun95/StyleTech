@@ -34,7 +34,7 @@ const Footer = () => {
                         <div className="order-2 lg:order-none">
                             {/* logo wrapper */}
                             <div className="logo_wrapper mb-7">
-                                <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2 px-20">Style Tech</Link>
+                                <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2 px-20">StyleTech Windows</Link>
                             </div>
                             <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project. </p>
                             <div className="footer_social flex items-center gap-3">

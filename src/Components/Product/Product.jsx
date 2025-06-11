@@ -16,7 +16,7 @@ const Product = () => {
     {
       title: "Georgian Bar Special Designs Windows",
       status: "New",
-      image: "/src/assets/products/product_1.png",
+      image: "/assets/products/product_1.png",
       product: "newest",
     },
     {

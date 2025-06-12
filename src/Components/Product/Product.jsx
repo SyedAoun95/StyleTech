@@ -38,7 +38,7 @@ const Product = () => {
       title: "Double Glaze Windows",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_4.png",
+      image: "/assets/products/Doubleglze.jpg",
       product: "newest",
     },
     {
@@ -60,7 +60,7 @@ const Product = () => {
       title: "Double Glaze window",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_7.png",
+      image: "/assets/products/Doubleglazehouse.jpg",
       product: "trending",
     },
     {
@@ -110,7 +110,7 @@ const Product = () => {
       title: "Double Glaze window glass",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_7.png",
+      image: "/assets/products/Doubleglaze3.jpg",
       product: "featured",
     },
     {
@@ -145,7 +145,7 @@ const Product = () => {
       title: "Double Glaze Windows",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_4.png",
+      image: "/assets/products/Doubleglze.jpg",
       product: "all",
     },
     {
@@ -166,7 +166,7 @@ const Product = () => {
       title: "Double glaze window glass",
       status: "Sales",
     //   price: "$250",
-      image: "/assets/products/product_7.png",
+      image: "assets/products/Doubleglazehouse.jpg",
       product: "all",
     },
     {

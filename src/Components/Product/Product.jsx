@@ -145,7 +145,7 @@ const Product = () => {
       title: "Shop Front Glass",
       status: "Sales",
 
-      image: "/assets/products/product_2.png",
+      image: "/assets/products/productfront_1.jpg",
       product: "all",
         alt: "Clear tempered glass for shop front installations"
     },
@@ -153,7 +153,7 @@ const Product = () => {
       title: "Shop Front Glass Door",
       status: "Sales",
  
-      image: "/assets/products/productfront_1.jpg",
+      image: "/assets/products/product_3.png",
       product: "all",
    alt: "Tempered glass door designed for shop fronts"
     },

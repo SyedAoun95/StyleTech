@@ -72,7 +72,7 @@ const Product = () => {
       title: "Double Glaze window",
       status: "Sales",
 
-      image: "/assets/products/Doubleglazehouse.jpg",
+      image: "/assets/products/Doubleglaze3.jpg",
       product: "trending",
         alt: "Double glaze window glass with insulation"
     },

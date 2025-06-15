@@ -88,23 +88,16 @@ const Product = () => {
       title: "Shop Front Glass",
       status: "Sales",
  
-      image: "/assets/products/product_2.png",
-      product: "best_seller",
-        alt: "Tempered glass door designed for shop fronts"
-    },
-    {
-      title: "Shop Front Glass Door",
-      status: "Sales",
-   
       image: "/assets/products/productfront_1.jpg",
       product: "best_seller",
         alt: "Tempered glass door designed for shop fronts"
     },
+  
     {
       title: "Stairs & Railings Glass",
       status: "Sales",
     
-      image: "/assets/products/productstair_3.jpg",
+      image: "/assets/products/productstair_2.jpg",
       product: "best_seller",
       alt: "Glass staircases and railings for homes"
     },
@@ -134,7 +127,7 @@ const Product = () => {
       
     },
     {
-      title: "/assets/products/img1.jpg",
+      title: "Georgian Bar special design window ",
       status: "Sales",
   
       image: "/assets/products/product_1.png",
@@ -149,14 +142,7 @@ const Product = () => {
       product: "all",
         alt: "Clear tempered glass for shop front installations"
     },
-    {
-      title: "Shop Front Glass Door",
-      status: "Sales",
- 
-      image: "/assets/products/product_3.png",
-      product: "all",
-   alt: "Tempered glass door designed for shop fronts"
-    },
+
     {
       title: "Double Glaze Windows",
       status: "Sales",
@@ -169,7 +155,7 @@ const Product = () => {
       title: "Elegent stair railing glass",
       status: "Sales",
 
-      image: "/assets/products/product_5.png",
+      image: "/assets/products/productstair_3.jpg",
       product: "all",
        alt: "Modern glass panels for stair railings"
     },

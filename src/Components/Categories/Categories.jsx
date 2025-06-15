@@ -21,7 +21,7 @@ const Categories = () => {
         {
             title: "Elegnt Stair Railing Glass",
             products: "A sleek combination of quality plus luxury",
-            image: "/assets/categories/categories_1.jpg",
+            image: "/assets/products/productstair_2.jpg",
             alt:"elegent stair railing glass"
         },
         {

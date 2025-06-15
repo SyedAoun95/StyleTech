@@ -72,7 +72,7 @@ const Product = () => {
       title: "Georgian Windows of your choice",
       status: "Sales",
    
-      image: "public/assets/products/georgen-8.jpg",
+      image: "/assets/products/georgian-9.jpg",
       product: "trending",
        alt: "Georgian Bar special design window with stylish glass"
     },
@@ -128,7 +128,7 @@ const Product = () => {
       title: "Custom Window glass of your choice",
       status: "Sales",
   
-      image: "/assets/products/product_8.png",
+      image: "/assets/products/georgen-8.jpg",
       product: "featured",
       alt: "Modern glass panels for windows"
       

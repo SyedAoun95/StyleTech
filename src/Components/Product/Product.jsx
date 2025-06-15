@@ -72,7 +72,7 @@ const Product = () => {
       title: "Georgian Windows of your choice",
       status: "Sales",
    
-      image: "/assets/products/product_8.png",
+      image: "public/assets/products/georgen-8.jpg",
       product: "trending",
        alt: "Georgian Bar special design window with stylish glass"
     },

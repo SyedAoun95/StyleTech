@@ -193,7 +193,7 @@ const Product = () => {
       title: "Custom georgian Window glass of your choice",
       status: "Sales",
   
-      image: "/assets/products/product_8.png",
+      image: "/assets/products/georgian-9.jpg",
       product: "all",
       alt: "Custom georgian window glass for homes"
     },

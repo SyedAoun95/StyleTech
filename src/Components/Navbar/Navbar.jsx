@@ -25,7 +25,7 @@ const Navbar = () => {
               <MapPin size={32} color="red" />
               <div className="flex flex-col">
                 Address
-                <span className="text-base">Islamabad</span>
+                <span className="text-base">Main Lehtrar Road ,Islamabad</span>
               </div>
             </Link>
             <Link className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize">

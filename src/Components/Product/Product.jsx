@@ -171,7 +171,7 @@ const Product = () => {
       title: "Double Glaze Windows",
       status: "Sales",
    
-      image: "/assets/products/Doubleglze.jpg",
+      image: "/assets/products/Doubleglaze3.jpg",
       product: "all",
       alt: "Double glaze insulated windows for energy efficiency"
     },

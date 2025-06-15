@@ -24,7 +24,7 @@ const Features = () => {
         {
             title: 'Elegent Stair railing Glass',
           
-            image: '/assets/features/product_3.png',
+            image: '/assets/products/productstair_2.jpg',
             alt: "Elegent stair railing glass"
         },
         {
@@ -54,7 +54,7 @@ const Features = () => {
         {
             title: 'Elegent Stair railing Glass',
            
-            image: '/assets/features/product_3.png',
+            image: '/assets/products/productstair_3.jpg',
             alt: "Elegent stair railing glass"
         },
         {

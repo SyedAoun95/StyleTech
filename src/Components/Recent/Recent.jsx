@@ -25,7 +25,7 @@ const Recent = () => {
         {
             title: 'Elegent Stair Railing glass',
           
-            image: '/assets/features/product_3.png',
+            image: '/assets/products/productstair_2.jpg',
             alt:"elegent stair railing glass"
         },
         {
@@ -54,7 +54,7 @@ const Recent = () => {
         {
             title: 'Elegent Stair Railing glass',
         
-            image: '/assets/features/product_3.png',
+            image: '/assets/products/productstair_3.jpg',
             alt:"elegent stair railing glass"
         },
         {

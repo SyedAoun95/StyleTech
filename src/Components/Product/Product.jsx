@@ -109,6 +109,14 @@ const Product = () => {
       product: "best_seller",
       alt: "Glass staircases and railings for homes"
     },
+       {
+      title: "Double glaze window glass of your choice",
+      status: "Sales",
+    
+      image: "/assets/products/productdglaze_5.jpg",
+      product: "best_seller",
+      alt: "Double Glaze windows"
+    },
     {
       title: "Shower Cabins",
       status: "Sales",

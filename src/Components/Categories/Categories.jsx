@@ -30,7 +30,7 @@ const Categories = () => {
             alt:"laminated glass"
         },
         {
-            title: "Single Glaze Glass",
+            title: "Double glaze window for your house ",
             products: "Customize it for your choice",
             image: "/assets/products/Doubleglazehouse.jpg",
             alt:"single glaze glass"

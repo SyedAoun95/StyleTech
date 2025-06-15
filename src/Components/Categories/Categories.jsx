@@ -9,21 +9,25 @@ const Categories = () => {
             title: "Elegnt Stair Railing Glass",
             products: "A sleek combination of quality plus luxury",
             image: "/assets/categories/categories_1.jpg",
+            alt:"elegent stair railing glass"
         },
         {
             title: "Customized Glass Door",
             products: "premium quality glass with installation of your own design",
             image: "/assets/categories/categories_2.jpg",
+            alt:"customized glass door"
         },
         {
             title: "Laminated Glass(4-12mm)",
             products: "tempered Glass with sleek designs of your choice",
             image: "/assets/categories/categories_3.jpg",
+            alt:"laminated glass"
         },
         {
             title: "Single Glaze Glass",
             products: "Customize it for your choice",
             image: "/assets/categories/categories_4.jpg",
+            alt:"single glaze glass"
         },
     ];
 

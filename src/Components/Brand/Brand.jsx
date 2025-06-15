@@ -4,32 +4,15 @@ const Brand = () => {
     const brands = [
         {
             id: 1,
-            image: "/assets/brands/Ghani glass logo.jpeg"
+            image: "/assets/brands/Ghani glass logo.jpeg",
+              alt: "Ghani glass logo"
         },
         {
             id: 2,
-            image: "/assets/brands/Tariq glass logo.jpeg"
+            image: "/assets/brands/Tariq glass logo.jpeg",
+            alt: "Tariq glass logo"
         },
-        // {
-        //     id: 3,
-        //     image: "/src/assets/brands/brand_3.png"
-        // },
-        // {
-        //     id: 4,
-        //     image: "/src/assets/brands/brand_4.png"
-        // },
-        // {
-        //     id: 5,
-        //     image: "/src/assets/brands/brand_5.png"
-        // },
-        // {
-        //     id: 6,
-        //     image: "/src/assets/brands/brand_6.png"
-        // }, 
-        // {
-        //     id: 7,
-        //     image: "/src/assets/brands/brand_7.png"
-        // },
+       
     ];
 
     return (

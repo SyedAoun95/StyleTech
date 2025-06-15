@@ -9,52 +9,61 @@ const Features = () => {
         {
             title: 'Single Glaze glass (4-12mm)',
             status: 'New',
-            // price: 'AVailable for windows, shower cabin and much more',
+    
             image: '/assets/features/product_1.png',
-            // currentPrice: '$200',
+              alt: "Single glaze glass"
+
         },
         {
             title: 'Customized office cabin Glass ',
             status: 'Sales',
-            // price: '$250',
+            
             image: '/assets/features/product_2.png',
+            alt: "Customized office cabin glass"
         },
         {
             title: 'Elegent Stair railing Glass',
-            // price: '$250',
+          
             image: '/assets/features/product_3.png',
+            alt: "Elegent stair railing glass"
         },
         {
             title: 'Customize shower cabin Glass',
             status: 'New',
-            // price: '$250',
+        
             image: '/assets/features/product_4.png',
-            // currentPrice: '$200',
+            alt: "Customize shower cabin glass"
+        
+      
         },
         {
             title: 'Front Door Glass',
             status: 'New',
-            // price: '$250',
+           
             image: '/assets/features/product_5.png',
-            // currentPrice: '$200',
+            alt: "Front door glass"
+          
         },
         {
             title: 'Customized office cabin Glass',
             status: 'Sales',
-            // price: '$250',
+        
             image: '/assets/features/product_2.png',
+            alt: "Customized office cabin glass"
         },
         {
             title: 'Elegent Stair railing Glass',
-            // price: '$250',
+           
             image: '/assets/features/product_3.png',
+            alt: "Elegent stair railing glass"
         },
         {
             title: 'Customize shower cabin Glass',
             status: 'New',
-            // price: '$250',
+           
             image: '/assets/features/product_4.png',
-            // currentPrice: '$200',
+            alt: "Customize shower cabin glass"
+          
         },
     ];
 
@@ -119,9 +128,7 @@ const Features = () => {
                                             <h4 className="text-xl text-white capitalize font-inter font-normal mb-4">
                                                 {feature?.title}
                                             </h4>
-                                            {/* <span className="bg-[#007580] h-[44px] w-[44px] rounded-lg flex items-center justify-center">
-                                                <ShoppingCart size="1.5rem" color="#fff" />
-                                            </span> */}
+                                            
                                         </div>
                                         <p className="text-xl flex items-center gap-2 text-[#272343] font-semibold font-inter">
                                             {feature?.price}

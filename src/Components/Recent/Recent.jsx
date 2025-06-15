@@ -12,6 +12,7 @@ const Recent = () => {
             status: 'New',
         
             image: '/assets/features/product_1.png',
+            alt:"single glaze window glass"
       
         },
         {
@@ -19,17 +20,20 @@ const Recent = () => {
             status: 'Sales',
           
             image: '/assets/features/product_2.png',
+            alt:"customized office cabin glass"
         },
         {
             title: 'Elegent Stair Railing glass',
           
             image: '/assets/features/product_3.png',
+            alt:"elegent stair railing glass"
         },
         {
             title: 'Shower Cabin Glass',
             status: 'New',
           
             image: '/assets/features/product_4.png',
+            alt:"shower cabin glass"
            
         },
         {
@@ -37,6 +41,7 @@ const Recent = () => {
             status: 'New',
           
             image: '/assets/features/product_1.png',
+            alt:"single glaze window glass"
            
         },
         {
@@ -44,17 +49,20 @@ const Recent = () => {
             status: 'Sales',
          
             image: '/assets/features/product_2.png',
+            alt:"customized office cabin glass"
         },
         {
             title: 'Elegent Stair Railing glass',
         
             image: '/assets/features/product_3.png',
+            alt:"elegent stair railing glass"
         },
         {
             title: 'Shower Cabin Glass',
             status: 'New',
         
             image: '/assets/features/product_4.png',
+            alt:"shower cabin glass"
            
         },
     ];

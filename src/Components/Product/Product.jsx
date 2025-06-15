@@ -18,6 +18,7 @@ const Product = () => {
       status: "New",
       image: "/assets/products/img1.jpg",
       product: "newest",
+      alt: "Georgian Bar special design window with stylish glass"
     },
     {
       title: "Shop Front Glass",
@@ -25,6 +26,7 @@ const Product = () => {
       
       image: "/assets/products/product_2.png",
       product: "newest",
+        alt: "Clear tempered glass for shop front installations"
     },
     {
       title: "Shop Front Glass Door",
@@ -32,6 +34,7 @@ const Product = () => {
  
       image: "/assets/products/product_3.png",
       product: "newest",
+        alt: "Tempered glass door designed for shop fronts"
     },
     {
       title: "Double Glaze Windows",
@@ -39,6 +42,7 @@ const Product = () => {
    
       image: "/assets/products/Doubleglze.jpg",
       product: "newest",
+        alt: "Double glaze insulated windows for energy efficiency"
     },
     {
       title: "Stairs & Railings Glass",
@@ -46,6 +50,7 @@ const Product = () => {
 
       image: "/assets/products/product_5.png",
       product: "trending",
+        alt: "Modern glass panels for stair railings"
     },
     {
       title: "Shower Cabins",
@@ -53,6 +58,7 @@ const Product = () => {
   
       image: "/assets/products/product_6.png",
       product: "trending",
+        alt: "Tempered glass shower cabin for bathrooms"
     },
     {
       title: "Double Glaze window",
@@ -60,6 +66,7 @@ const Product = () => {
 
       image: "/assets/products/Doubleglazehouse.jpg",
       product: "trending",
+        alt: "Double glaze window glass with insulation"
     },
     {
       title: "Georgian Windows of your choice",
@@ -67,6 +74,7 @@ const Product = () => {
    
       image: "/assets/products/product_8.png",
       product: "trending",
+       alt: "Georgian Bar special design window with stylish glass"
     },
     {
       title: "Georgian Bar Special Designs Windows",
@@ -74,6 +82,7 @@ const Product = () => {
   
       image: "/assets/products/img1.jpg",
       product: "best_seller",
+        alt: "Georgian Bar special design window with stylish glass"
     },
     {
       title: "Shop Front Glass",
@@ -81,6 +90,7 @@ const Product = () => {
  
       image: "/assets/products/product_2.png",
       product: "best_seller",
+        alt: "Tempered glass door designed for shop fronts"
     },
     {
       title: "Shop Front Glass Door",
@@ -88,6 +98,7 @@ const Product = () => {
    
       image: "/assets/products/product_3.png",
       product: "best_seller",
+        alt: "Tempered glass door designed for shop fronts"
     },
     {
       title: "Stairs & Railings Glass",
@@ -95,6 +106,7 @@ const Product = () => {
     
       image: "/assets/products/product_5.png",
       product: "best_seller",
+      alt: "Glass staircases and railings for homes"
     },
     {
       title: "Shower Cabins",
@@ -102,6 +114,7 @@ const Product = () => {
    
       image: "/assets/products/product_6.png",
       product: "featured",
+      alt: "Glass shower cubicles for bathrooms"
     },
     {
       title: "Double Glaze window glass",
@@ -109,6 +122,7 @@ const Product = () => {
    
       image: "/assets/products/Doubleglaze3.jpg",
       product: "featured",
+        alt: "Double glaze insulated windows for energy efficiency"
     },
     {
       title: "Custom Window glass of your choice",
@@ -116,6 +130,8 @@ const Product = () => {
   
       image: "/assets/products/product_8.png",
       product: "featured",
+      alt: "Modern glass panels for windows"
+      
     },
     {
       title: "/assets/products/img1.jpg",
@@ -123,6 +139,7 @@ const Product = () => {
   
       image: "/assets/products/product_1.png",
       product: "featured",
+        alt: "Georgian Bar special design window with stylish glass"
     },
     {
       title: "Shop Front Glass",
@@ -130,6 +147,7 @@ const Product = () => {
 
       image: "/assets/products/product_2.png",
       product: "all",
+        alt: "Clear tempered glass for shop front installations"
     },
     {
       title: "Shop Front Glass Door",
@@ -137,6 +155,7 @@ const Product = () => {
  
       image: "/assets/products/product_3.png",
       product: "all",
+   alt: "Tempered glass door designed for shop fronts"
     },
     {
       title: "Double Glaze Windows",
@@ -144,6 +163,7 @@ const Product = () => {
    
       image: "/assets/products/Doubleglze.jpg",
       product: "all",
+      alt: "Double glaze insulated windows for energy efficiency"
     },
     {
       title: "Elegent stair railing glass",
@@ -151,6 +171,7 @@ const Product = () => {
 
       image: "/assets/products/product_5.png",
       product: "all",
+       alt: "Modern glass panels for stair railings"
     },
     {
       title: "Shower Cabin glass",
@@ -158,6 +179,7 @@ const Product = () => {
   
       image: "/assets/products/product_6.png",
       product: "all",
+      alt: "Tempered glass shower cabin for bathrooms"
     },
     {
       title: "Double glaze window glass",
@@ -165,6 +187,7 @@ const Product = () => {
   
       image: "assets/products/Doubleglazehouse.jpg",
       product: "all",
+        alt: "Double glaze window glass with insulation"
     },
     {
       title: "Custom georgian Window glass of your choice",
@@ -172,6 +195,7 @@ const Product = () => {
   
       image: "/assets/products/product_8.png",
       product: "all",
+      alt: "Custom georgian window glass for homes"
     },
     {
       title: "Georgian Bar Special Designs Windows",
@@ -179,6 +203,7 @@ const Product = () => {
 
       image: "/assets/products/img2.jpg",
       product: "all",
+      alt: "Georgian bar special designs windows"
     },
   ];
 
@@ -213,7 +238,7 @@ const Product = () => {
              <img 
   className="w-full h-[312px] rounded-lg object-cover" 
   src={product?.image} 
-  alt={product?.title} 
+  alt={product?.title}  
 />
 
               {product.status && (

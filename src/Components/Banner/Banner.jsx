@@ -81,19 +81,19 @@ const Banner = () => {
             </div>
           ))}
         </Slider>
-      </div>
+     </div>
       {/* WhatsApp icon positioned at bottom right with slight upward offset */}
       <a
-        href="https://wa.me/03061118906" // Replace with your WhatsApp number
+        href="https://wa.me/03061118906"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-4 right-4 z-50"
-        style={{ transform: "translateY(-20px)" }} // Slight upward offset
+        className="fixed bottom-4 right-4 z-50 md:bottom-6 md:right-6"
+        style={{ transform: "translateY(-20px)" }}
       >
         <img
-          src="/assets/whatsapp.jpg" // Replace with your WhatsApp icon path
+          src="/assets/whatsapp.jpg" // Ensure leading slash for public folder
           alt="WhatsApp"
-          className="w-[60px] h-[60px] object-cover rounded-full" // Match banner image size proportionally
+          className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] object-cover rounded-full transition-all duration-300 hover:scale-110"
         />
       </a>
     </div>

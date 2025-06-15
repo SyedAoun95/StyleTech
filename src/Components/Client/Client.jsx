@@ -2,7 +2,7 @@ import SectionTitle from "../SectionTitle/SectionTitle";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import { ShoppingCart, User } from "lucide-react";
+import {  User } from "lucide-react";
 
 const Client = () => {
     const clientSays = [

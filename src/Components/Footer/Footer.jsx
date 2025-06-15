@@ -1,4 +1,4 @@
-import { Armchair, Banknote, CreditCard, Facebook, Instagram, Twitter, Youtube } from "lucide-react";
+import { Armchair, Banknote, CreditCard, Facebook, Instagram,} from "lucide-react";
 import { AiFillTikTok } from "react-icons/ai";
 import emailjs from '@emailjs/browser';
 import React, { useRef } from 'react';
@@ -40,9 +40,9 @@ const Footer = () => {
                             <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project. </p>
                             <div className="footer_social flex items-center gap-3">
                                 <Link className="p-3 rounded-full border-[#007580] inline-block border-[1px]" to="https://www.facebook.com/share/18u1qqfBsW/"><Facebook size="1.5rem" color="black" /></Link>
-                                <Link className="p-3 inline-block"><AiFillTikTok  size="1.5rem" color="black" /></Link>
-                                <Link className="p-3 inline-block"><Instagram size="1.5rem" color="black" /></Link>
-                                <Link className="p-3 inline-block"><Youtube size="1.5rem" color="black" /></Link>
+                                <Link className="p-3 inline-block" to="https://www.tiktok.com/@styletech.windows?_t=ZS-8xDghSVY2ev&_r=1" ><AiFillTikTok  size="1.5rem" color="black" /></Link>
+                                <Link className="p-3 inline-block" to="https://www.instagram.com/styletechwindows?igsh=ejNidTkxYWl4ejFz"><Instagram size="1.5rem" color="black" /></Link>
+                               
                             </div>
                         </div>
                         <div className="footer_wrapper order-3 lg:order-none">

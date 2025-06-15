@@ -8,8 +8,8 @@ const Categories = () => {
         {
             title: "Double glaze window glass",
             products: "A sleek combination of quality plus luxury",
-            image: "/assets/categories/category_6.jpg",
-            alt:"elegent stair railing glass"
+            image: "/assets/products/Doubleglaze3.jpg",
+            alt:"Double glaze window glass"
         },
         {
             title: "Elegnt Stair Railing Glass",
@@ -32,7 +32,7 @@ const Categories = () => {
         {
             title: "Single Glaze Glass",
             products: "Customize it for your choice",
-            image: "/assets/categories/categories_4.jpg",
+            image: "/assets/products/Doubleglazehouse.jpg",
             alt:"single glaze glass"
         },
     ];

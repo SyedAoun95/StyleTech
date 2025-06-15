@@ -84,18 +84,17 @@ const Banner = () => {
      </div>
       {/* WhatsApp icon positioned at bottom right with slight upward offset */}
       <a
-        href="https://wa.me/03061118906"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="fixed bottom-4 right-4 z-50 md:bottom-6 md:right-6"
-        style={{ transform: "translateY(-20px)" }}
-      >
-        <img
-          src="/assets/whatsapp.jpg" // Ensure leading slash for public folder
-          alt="WhatsApp"
-          className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] object-cover rounded-full transition-all duration-300 hover:scale-110"
-        />
-      </a>
+    href="https://wa.me/03061118906"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="fixed bottom-4 right-4 z-50"
+  >
+    <img
+      src="/assets/whatsapp.jpg" // Ensure leading slash for public folder
+      alt="WhatsApp"
+      className="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] md:w-[60px] md:h-[60px] lg:w-[70px] lg:h-[70px] object-cover rounded-full transition-all duration-300 hover:scale-110"
+    />
+  </a>
     </div>
   );
 };

@@ -133,7 +133,7 @@ const Footer = () => {
                 <div className="lg:container mx-auto">
                     <div className="flex items-center justify-between">
                         <div>
-                            <p className="text-base text-white font-normal font-inter">@ 2025 Aoun Naqvi- Designed & Develop <span className="text-white">Aoun Codes</span></p>
+                            <p className="text-base text-white font-normal font-inter">@ 2025 Aoun Naqvi- Designed & Develop by  <span className="text-white">Aoun Codes</span></p>
                         </div>
                     </div>
                 </div>

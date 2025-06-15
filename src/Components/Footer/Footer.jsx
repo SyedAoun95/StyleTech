@@ -17,7 +17,7 @@ const Footer = () => {
             .then(
                 () => {
                     console.log('SUCCESS!');
-                    alert('Message sent successfully!');
+                    alert('Message sent,our team will contact you soon ');
                     form.current.reset(); // Reset form after successful submission
                 },
                 (error) => {

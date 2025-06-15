@@ -6,7 +6,7 @@ import SectionTitle from "./../SectionTitle/SectionTitle";
 const Categories = () => {
     const categories = [
         {
-            title: "Elegnt Stair Railing Glass",
+            title: "Double glaze window glass",
             products: "A sleek combination of quality plus luxury",
             image: "/assets/categories/category_6.jpg",
             alt:"elegent stair railing glass"

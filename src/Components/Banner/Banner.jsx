@@ -91,7 +91,7 @@ const Banner = () => {
         style={{ transform: "translateY(-20px)" }} // Slight upward offset
       >
         <img
-          src="public/assets/whatsapp.jpg" // Replace with your WhatsApp icon path
+          src="/assets/whatsapp.jpg" // Replace with your WhatsApp icon path
           alt="WhatsApp"
           className="w-[60px] h-[60px] object-cover rounded-full" // Match banner image size proportionally
         />

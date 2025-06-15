@@ -20,6 +20,7 @@ const Product = () => {
       product: "newest",
       alt: "Georgian Bar special design window with stylish glass"
     },
+  
     {
       title: "Shop Front Glass",
       status: "Sales",
@@ -59,6 +60,13 @@ const Product = () => {
       image: "/assets/products/product_6.png",
       product: "trending",
         alt: "Tempered glass shower cabin for bathrooms"
+    },
+      {
+      title: "Georgian Bar Special Designs Windows",
+      status: "New",
+      image: "/assets/products/productgeorgian_4.jpg",
+      product: "newest",
+      alt: "Georgian Bar special design window with stylish glass"
     },
     {
       title: "Double Glaze window",
@@ -139,6 +147,14 @@ const Product = () => {
       status: "Sales",
 
       image: "/assets/products/productfront_1.jpg",
+      product: "all",
+        alt: "Clear tempered glass for shop front installations"
+    },
+       {
+      title: "Double glaze window of your choice",
+      status: "Sales",
+
+      image: "/assets/products/productdglaze_5.jpg",
       product: "all",
         alt: "Clear tempered glass for shop front installations"
     },

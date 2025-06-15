@@ -10,52 +10,52 @@ const Recent = () => {
         {
             title: 'Single Glaze window glass(4-12mm)',
             status: 'New',
-            // price: '$250',
+        
             image: '/assets/features/product_1.png',
-            // currentPrice: '$200',
+      
         },
         {
             title: 'Customized office cabin glass',
             status: 'Sales',
-            // price: '$250',
+          
             image: '/assets/features/product_2.png',
         },
         {
             title: 'Elegent Stair Railing glass',
-            // price: '$250',
+          
             image: '/assets/features/product_3.png',
         },
         {
             title: 'Shower Cabin Glass',
             status: 'New',
-            // price: '$250',
+          
             image: '/assets/features/product_4.png',
-            // currentPrice: '$200',
+           
         },
         {
             title: 'Single Glaze window glass(4-12mm)',
             status: 'New',
-            // price: '$250',
+          
             image: '/assets/features/product_1.png',
-            // currentPrice: '$200',
+           
         },
         {
             title: 'Customized office cabin glass',
             status: 'Sales',
-            // price: '$250',
+         
             image: '/assets/features/product_2.png',
         },
         {
             title: 'Elegent Stair Railing glass',
-            // price: '$250',
+        
             image: '/assets/features/product_3.png',
         },
         {
             title: 'Shower Cabin Glass',
             status: 'New',
-            // price: '$250',
+        
             image: '/assets/features/product_4.png',
-            // currentPrice: '$200',
+           
         },
     ];
 

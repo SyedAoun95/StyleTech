@@ -22,164 +22,161 @@ const Product = () => {
     {
       title: "Shop Front Glass",
       status: "Sales",
-      // price: "Hot seller available in all different styles",
+      
       image: "/assets/products/product_2.png",
       product: "newest",
     },
     {
       title: "Shop Front Glass Door",
       status: "New",
-    //   price: "$250",
-    //   currentPrice: "$200",
+ 
       image: "/assets/products/product_3.png",
       product: "newest",
     },
     {
       title: "Double Glaze Windows",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/Doubleglze.jpg",
       product: "newest",
     },
     {
       title: "Stairs & Railings Glass",
       status: "Sales",
-    //   price: "$250",
+
       image: "/assets/products/product_5.png",
       product: "trending",
     },
     {
       title: "Shower Cabins",
       status: "New",
-    //   price: "$250",
-    //   currentPrice: "$200",
+  
       image: "/assets/products/product_6.png",
       product: "trending",
     },
     {
       title: "Double Glaze window",
       status: "Sales",
-    //   price: "$250",
+
       image: "/assets/products/Doubleglazehouse.jpg",
       product: "trending",
     },
     {
       title: "Georgian Windows of your choice",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/product_8.png",
       product: "trending",
     },
     {
       title: "Georgian Bar Special Designs Windows",
       status: "New",
-    //   price: "$250",
-    //   currentPrice: "$200",
+  
       image: "/assets/products/img1.jpg",
       product: "best_seller",
     },
     {
       title: "Shop Front Glass",
       status: "Sales",
-    //   price: "$250",
+ 
       image: "/assets/products/product_2.png",
       product: "best_seller",
     },
     {
       title: "Shop Front Glass Door",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/product_3.png",
       product: "best_seller",
     },
     {
       title: "Stairs & Railings Glass",
       status: "Sales",
-    //   price: "$250",
+    
       image: "/assets/products/product_5.png",
       product: "best_seller",
     },
     {
       title: "Shower Cabins",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/product_6.png",
       product: "featured",
     },
     {
       title: "Double Glaze window glass",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/Doubleglaze3.jpg",
       product: "featured",
     },
     {
       title: "Custom Window glass of your choice",
       status: "Sales",
-    //   price: "$250",
+  
       image: "/assets/products/product_8.png",
       product: "featured",
     },
     {
       title: "/assets/products/img1.jpg",
       status: "Sales",
-    //   price: "$250",
+  
       image: "/assets/products/product_1.png",
       product: "featured",
     },
     {
       title: "Shop Front Glass",
       status: "Sales",
-    //   price: "$250",
+
       image: "/assets/products/product_2.png",
       product: "all",
     },
     {
       title: "Shop Front Glass Door",
       status: "Sales",
-    //   price: "$250",
+ 
       image: "/assets/products/product_3.png",
       product: "all",
     },
     {
       title: "Double Glaze Windows",
       status: "Sales",
-    //   price: "$250",
+   
       image: "/assets/products/Doubleglze.jpg",
       product: "all",
     },
     {
       title: "Elegent stair railing glass",
       status: "Sales",
-    //   price: "$250",
+
       image: "/assets/products/product_5.png",
       product: "all",
     },
     {
       title: "Shower Cabin glass",
       status: "Sales",
-    //   price: "$250",
+  
       image: "/assets/products/product_6.png",
       product: "all",
     },
     {
       title: "Double glaze window glass",
       status: "Sales",
-    //   price: "$250",
+  
       image: "assets/products/Doubleglazehouse.jpg",
       product: "all",
     },
     {
       title: "Custom georgian Window glass of your choice",
       status: "Sales",
-    //   price: "$250",
+  
       image: "/assets/products/product_8.png",
       product: "all",
     },
     {
       title: "Georgian Bar Special Designs Windows",
       status: "Sales",
-    //   price: "$250",
+
       image: "/assets/products/img2.jpg",
       product: "all",
     },

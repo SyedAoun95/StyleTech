@@ -5,6 +5,13 @@ import SectionTitle from "./../SectionTitle/SectionTitle";
 
 const Categories = () => {
     const categories = [
+       
+        {
+            title: "Double glaze window glass",
+            products: "A sleek combination of quality plus luxury",
+            image: "/assets/categories/categories_8.jpg",
+            alt:"Double glaze window glass"
+        },
         {
             title: "Double glaze window glass",
             products: "A sleek combination of quality plus luxury",

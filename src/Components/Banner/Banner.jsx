@@ -12,7 +12,7 @@ const Banner = () => {
             id: 1,
             title: "Frame your future with style ",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image1.png",
+            image: "/assets/Banner/banner_image8.jpg",
             alt:"banner image 1"
         
         },
@@ -34,7 +34,7 @@ const Banner = () => {
             id: 4,
             title: "Transparent Solutions, Timeless Designs.",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image8.jpg",
+            image: "/assets/Banner/banner_image9.jpg",
               alt: "banner image 8"
         },
     ];

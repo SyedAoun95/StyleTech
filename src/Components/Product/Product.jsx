@@ -61,13 +61,13 @@ const Product = () => {
       product: "trending",
         alt: "Tempered glass shower cabin for bathrooms"
     },
-      {
-      title: "Georgian Bar Special Designs Windows",
-      status: "New",
-      image: "/assets/products/productgeorgian_4.jpg",
-      product: "newest",
-      alt: "Georgian Bar special design window with stylish glass"
-    },
+    //   {
+    //   title: "Georgian Bar Special Designs Windows",
+    //   status: "New",
+    //   image: "/assets/products/productgeorgian_4.jpg",
+    //   product: "newest",
+    //   alt: "Georgian Bar special design window with stylish glass"
+    // },
     {
       title: "Double Glaze window",
       status: "Sales",
@@ -195,7 +195,7 @@ const Product = () => {
       title: "Double glaze window glass",
       status: "Sales",
   
-      image: "assets/products/Doubleglazehouse.jpg",
+      image: "/assets/products/productdglze_5.jpg",
       product: "all",
         alt: "Double glaze window glass with insulation"
     },
@@ -211,7 +211,7 @@ const Product = () => {
       title: "Georgian Bar Special Designs Windows",
       status: "Sales",
 
-      image: "/assets/products/img2.jpg",
+      image: "/assets/products/productsingleglaze_6.jpg",
       product: "all",
       alt: "Georgian bar special designs windows"
     },

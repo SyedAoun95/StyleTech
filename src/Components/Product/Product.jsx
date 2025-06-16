@@ -208,12 +208,12 @@ const Product = () => {
       alt: "Custom georgian window glass for homes"
     },
     {
-      title: "Georgian Bar Special Designs Windows",
+      title: "Single Glass of your choice",
       status: "Sales",
 
       image: "/assets/products/productsingleglaze_6.jpg",
       product: "all",
-      alt: "Georgian bar special designs windows"
+      alt: "Single glaze glass of your chice "
     },
   ];
 

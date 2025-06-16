@@ -27,14 +27,14 @@ const Banner = () => {
             id: 3,
             title: "Bringing Light and Elegance to Your Interiors",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image2.png",
+            image: "/assets/Banner/banner_image5.jpg",
             alt : "banner image 2"
         },
         {
             id: 4,
             title: "Transparent Solutions, Timeless Designs.",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image3.jpg",
+            image: "/assets/Banner/banner_image6.jpg",
               alt: "banner image 3"
         },
     ];

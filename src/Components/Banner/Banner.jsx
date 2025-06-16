@@ -20,8 +20,8 @@ const Banner = () => {
             id: 2,
             title: "Premium Window Glass for Every Space",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image3.jpg",
-            alt:"banner image 3"
+            image: "/assets/Banner/banner_image6.jpg",
+            alt:"banner image 6"
         },
         {
             id: 3,
@@ -34,8 +34,8 @@ const Banner = () => {
             id: 4,
             title: "Transparent Solutions, Timeless Designs.",
             subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image6.jpg",
-              alt: "banner image 3"
+            image: "/assets/Banner/banner_image8.jpg",
+              alt: "banner image 8"
         },
     ];
 

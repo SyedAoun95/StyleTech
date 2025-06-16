@@ -45,6 +45,30 @@ const Product = () => {
       product: "newest",
         alt: "Double glaze insulated windows for energy efficiency"
     },
+       {
+      title: "Styletech window glass",
+      status: "Sales",
+   
+      image: "/assets/Banner/banner_image5.jpg",
+      product: "newest",
+        alt: "Styletech window glass"
+    },
+     {
+      title: "Styletech upvc window and doors",
+      status: "Sales",
+   
+      image: "/assets/Banner/banner_image6.jpg",
+      product: "newest",
+        alt: "Styletech upvc window and doors"
+    },
+         {
+      title: "Georgian bar double glaze windows",
+      status: "Sales",
+   
+      image: "/assets/Banner/Banner_image7.jpg",
+      product: "newest",
+        alt: "Georgian bar double glaze windows"
+    },
     {
       title: "Stairs & Railings Glass",
       status: "Sales",
@@ -215,6 +239,7 @@ const Product = () => {
       product: "all",
       alt: "Single glaze glass of your chice "
     },
+    
   ];
 
   const productFilter = products.filter((product) => product.product === active.product);

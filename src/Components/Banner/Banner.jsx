@@ -34,8 +34,8 @@ const Banner = () => {
             id: 4,
             title: "Transparent Solutions, Timeless Designs.",
             subTitle: "welcome to StyleTech windows",
-            image: "/assets/Banner/banner_image4.jpg",
-              alt: "banner image 4"
+            image: "/assets/Banner/banner_image6.jpg",
+              alt: "banner image 6"
         },
     ];
 

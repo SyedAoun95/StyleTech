@@ -27,7 +27,7 @@ const Banner = () => {
             id: 3,
             title: "Bringing Light and Elegance to Your Interiors",
             subTitle: "welcome to StyleTech windows",
-            image: "/assets/Banner/banner_image6.jpg",
+            image: "/assets/Banner/banner_image3.jpg",
             alt : "banner image 3"
         },
         {

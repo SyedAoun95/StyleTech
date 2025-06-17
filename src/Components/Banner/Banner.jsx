@@ -12,7 +12,7 @@ const Banner = () => {
             id: 1,
             title: "Frame your future with style ",
             subTitle: "welcome to StyleTech windows",
-            image: "/assets/Banner/banner_image1.jpg",
+            image: "/assets/Banner/banner_image7.jpg",
             alt:"banner image 1"
         
         },
@@ -20,7 +20,7 @@ const Banner = () => {
             id: 2,
             title: "Premium Window Glass for Every Space",
             subTitle: "welcome to StyleTech windows",
-            image: "/assets/Banner/banner_image2.jpg",
+            image: "/assets/Banner/banner_image5.jpg",
             alt:"banner image 2"
         },
         {

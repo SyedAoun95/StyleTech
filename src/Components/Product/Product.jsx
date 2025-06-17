@@ -49,7 +49,7 @@ const Product = () => {
       title: "Styletech window glass",
       status: "Sales",
    
-      image: "/assets/Banner/banner_image5.jpg",
+      image: "/assets/Banner/banner_image2.jpg",
       product: "newest",
         alt: "Styletech window glass"
     },
@@ -57,7 +57,7 @@ const Product = () => {
       title: "Styletech upvc window and doors",
       status: "Sales",
    
-      image: "/assets/Banner/banner_image6.jpg",
+      image: "/assets/Banner/banner_image3.jpg",
       product: "newest",
         alt: "Styletech upvc window and doors"
     },
@@ -65,7 +65,7 @@ const Product = () => {
       title: "Georgian bar double glaze windows",
       status: "Sales",
    
-      image: "/assets/Banner/Banner_image7.jpg",
+      image: "/assets/Banner/banner_image6.jpg",
       product: "newest",
         alt: "Georgian bar double glaze windows"
     },

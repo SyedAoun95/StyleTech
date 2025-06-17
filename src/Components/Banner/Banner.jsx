@@ -11,31 +11,31 @@ const Banner = () => {
         {
             id: 1,
             title: "Frame your future with style ",
-            subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image8.jpg",
+            subTitle: "welcome to StyleTech windows",
+            image: "/assets/Banner/Banner_image1.jpg",
             alt:"banner image 1"
         
         },
         {
             id: 2,
             title: "Premium Window Glass for Every Space",
-            subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image6.jpg",
-            alt:"banner image 6"
+            subTitle: "welcome to StyleTech windows",
+            image: "/assets/Banner/banner_image2.jpg",
+            alt:"banner image 2"
         },
         {
             id: 3,
             title: "Bringing Light and Elegance to Your Interiors",
-            subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image5.jpg",
-            alt : "banner image 2"
+            subTitle: "welcome to StyleTech windows",
+            image: "/assets/Banner/banner_image3.jpg",
+            alt : "banner image 3"
         },
         {
             id: 4,
             title: "Transparent Solutions, Timeless Designs.",
-            subTitle: "welcome to StyleTech",
-            image: "/assets/Banner/banner_image9.jpg",
-              alt: "banner image 8"
+            subTitle: "welcome to StyleTech windows",
+            image: "/assets/Banner/banner_image4.jpg",
+              alt: "banner image 4"
         },
     ];
 

@@ -12,7 +12,7 @@ const Banner = () => {
             id: 1,
             title: "Frame your future with style ",
             subTitle: "welcome to StyleTech windows",
-            image: "/assets/Banner/Banner_image1.jpg",
+            image: "/assets/Banner/banner_image1.jpg",
             alt:"banner image 1"
         
         },

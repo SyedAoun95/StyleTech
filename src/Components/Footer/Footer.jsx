@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
             <div className="order-2 lg:order-none">
               <div className="logo_wrapper mb-7 flex items-center gap-3">
-  <a 
+              <a 
     href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw" 
     target="_blank" 
     rel="noopener noreferrer"
@@ -47,12 +47,11 @@ const Footer = () => {
       className="w-12 h-12 object-contain" // adjust size as needed
     />
   </a>
-  <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2">StyleTech Windows</Link>
-    <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">
+                <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2">StyleTech Windows</Link>
+              </div>
+              <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">
                 StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project.
               </p>
-</div>
-
               <div className="footer_social flex items-center gap-3">
                 <Link className="p-3 rounded-full border-[#007580] inline-block border-[1px]" to="https://www.facebook.com/share/18u1qqfBsW/">
                   <Facebook size="2rem" color="#1877F2" />

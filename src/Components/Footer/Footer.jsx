@@ -52,6 +52,16 @@ const Footer = () => {
 <Link className="p-3 inline-block" to="https://wa.me/+923061118906">
   <FaSquareWhatsapp size="2rem" color="#25D366" />
 </Link>
+<a 
+  href="tel:+923061118906" 
+  className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize"
+>
+  <Phone size={32} color="red" />
+  <div className="flex flex-col">
+    Call us today
+    <span className="text-base">+92 306 1118906</span>
+  </div>
+</a>
                             </div>
                         </div>
                         <div className="footer_wrapper order-3 lg:order-none">

@@ -28,13 +28,17 @@ const Navbar = () => {
                 <span className="text-base">Main Lehtrar Road ,Islamabad</span>
               </div>
             </Link>
-            <Link className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize">
-              <Phone size={32} color="red" />
-              <div className="flex flex-col">
-                Call us today
-                <span className="text-base">+92 306 1118906</span>
-              </div>
-            </Link>
+           <a 
+  href="tel:+923061118906" 
+  className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize"
+>
+  <Phone size={32} color="red" />
+  <div className="flex flex-col">
+    Call us today
+    <span className="text-base">+92 306 1118906</span>
+  </div>
+</a>
+
           </div>
         </div>
       </div>

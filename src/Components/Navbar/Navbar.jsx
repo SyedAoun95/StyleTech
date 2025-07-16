@@ -21,13 +21,18 @@ const Navbar = () => {
                 <span className="text-base">9:00AM to 5:00 PM</span>
               </div>
             </Link>
-            <Link className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize">
-              <MapPin size={32} color="red" />
-              <div className="flex flex-col">
-                Address
-                <span className="text-base">Main Lehtrar Road ,Islamabad</span>
-              </div>
-            </Link>
+           <a
+  href="https://www.google.com/maps/place/Main+Lehtrar+Road,+Islamabad"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize"
+>
+  <MapPin size={32} color="red" />
+  <div className="flex flex-col">
+    Address
+    <span className="text-base">Main Lehtrar Road ,Islamabad</span>
+  </div>
+</a>
            <a 
   href="tel:+923061118906" 
   className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize"

@@ -49,7 +49,7 @@ const Footer = () => {
 <Link className="p-3 inline-block" to="https://www.instagram.com/styletechwindows?igsh=ejNidTkxYWl4ejFz">
   <Instagram size="2rem" color="#E4405F" />
 </Link>
-<Link className="p-3 inline-block" to="https://wa.me/03061118906">
+<Link className="p-3 inline-block" to="https://wa.me/+923061118906">
   <FaSquareWhatsapp size="2rem" color="#25D366" />
 </Link>
                             </div>

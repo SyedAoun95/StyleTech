@@ -31,13 +31,15 @@ const Footer = () => {
     return (
         <footer>
             <div className="footer_top mx-h-[343px] w-full border-t border-b border-[#e1e3e5] pt-[80px] pb-[60px]">
-                <div className="lg:container mx-auto">
+                <div className="lg:container mx-auto px-6 lg:px-0">
                     <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
                         <div className="order-2 lg:order-none">
                             <div className="logo_wrapper mb-7">
                                 <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2 px-20">StyleTech Windows</Link>
                             </div>
-                            <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project. </p>
+                            <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">
+                                StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project.
+                            </p>
                             <div className="footer_social flex items-center gap-3">
                                 <Link className="p-3 rounded-full border-[#007580] inline-block border-[1px]" to="https://www.facebook.com/share/18u1qqfBsW/">
                                     <Facebook size="2rem" color="#1877F2" />
@@ -61,7 +63,7 @@ const Footer = () => {
                             <ul className="space-y-2 mt-4">
                                 <li><Link className="text-base text-white font-inter font-normal capitalize" to="/">Home</Link></li>
                                 <li><Link className="text-base text-white font-inter font-normal capitalize" to="/Products">Products</Link></li>
-                                <li><Link className="text-base text-white font-inter font-normal capitalize" to='/client'>Client</Link></li>
+                                <li><Link className="text-base text-white font-inter font-normal capitalize" to="/client">Client</Link></li>
                                 <li><Link className="text-base text-white font-inter font-normal capitalize" to="/Categories">Categories</Link></li>
                                 <li><Link className="text-base text-white font-inter font-normal capitalize" to="/Recent">Recently-added</Link></li>
                                 <li><Link className="text-base text-white font-inter font-normal capitalize" to="/Recent">Contact</Link></li>
@@ -93,7 +95,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer_bottom w-full h-[75px] flex items-center justify-center">
-                <div className="lg:container mx-auto">
+                <div className="lg:container mx-auto px-6 lg:px-0">
                     <div className="flex items-center justify-between">
                         <div>
                             <p className="text-base text-white font-normal font-inter">@ 2025 Aoun Naqvi - Designed & Developed by <span className="text-white">Aoun Codes</span></p>

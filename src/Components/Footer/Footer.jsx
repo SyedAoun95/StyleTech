@@ -34,11 +34,18 @@ const Footer = () => {
                 <div className="lg:container mx-auto px-6 lg:px-0">
                     <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
                         <div className="order-2 lg:order-none">
-                            <div className="logo_wrapper mb-7 flex items-center gap-3 px-20">
-                                <a href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw" target="_blank" rel="noopener noreferrer">
-                                    <MapPin size="2.2rem" color="#007580" />
+                            <div className="logo_wrapper mb-7 flex items-center gap-4 px-20">
+                                <a 
+                                    href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw" 
+                                    target="_blank" 
+                                    rel="noopener noreferrer"
+                                    className="bg-[#34A853] p-3 rounded-full inline-flex items-center justify-center"
+                                >
+                                    <MapPin size="4rem" color="#ffffff" />
                                 </a>
-                                <Link to="/" className="text-3xl text-white font-inter font-medium capitalize">StyleTech Windows</Link>
+                                <Link to="/" className="text-3xl text-white font-inter font-medium capitalize">
+                                    StyleTech Windows
+                                </Link>
                             </div>
                             <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">
                                 StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project.

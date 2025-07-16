@@ -48,6 +48,9 @@ const Footer = () => {
     />
   </a>
   <Link to="/" className="text-3xl text-white font-inter font-medium capitalize flex items-center gap-2">StyleTech Windows</Link>
+    <p className="text-base text-white font-inter font-normal mb-4 max-w-[350px]">
+                StyleTech Windows is a premium provider of double-glazed and Georgian windows, offering a perfect balance of elegance, efficiency, and endurance. With a commitment to innovation and design, we bring stylish and functional window solutions for every kind of home or project.
+              </p>
 </div>
 
               <div className="footer_social flex items-center gap-3">

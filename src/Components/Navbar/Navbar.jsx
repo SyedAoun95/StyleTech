@@ -22,7 +22,7 @@ const Navbar = () => {
               </div>
             </Link>
            <a
-  href="https://www.google.com/maps/place/Main+Lehtrar+Road,+Islamabad"
+  href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center gap-2 text-xl text-white font-inter font-medium capitalize"

@@ -36,13 +36,18 @@ const Footer = () => {
                         <div className="order-2 lg:order-none">
                             <div className="logo_wrapper mb-7 flex items-center gap-4 px-20">
                                 <a 
-                                    href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw" 
-                                    target="_blank" 
-                                    rel="noopener noreferrer"
-                                    className="bg-[#34A853] p-3 rounded-full inline-flex items-center justify-center"
-                                >
-                                    <MapPin size="4rem" color="#ffffff" />
-                                </a>
+  href="https://maps.app.goo.gl/72sudM7iXLsEFNde8?g_st=aw" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="inline-flex items-center justify-center"
+>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Maps_icon_%282020%29.svg/512px-Google_Maps_icon_%282020%29.svg.png" 
+    alt="Google Maps Pin" 
+    className="w-[64px] h-[64px] object-contain"
+  />
+</a>
+
                                 <Link to="/" className="text-3xl text-white font-inter font-medium capitalize">
                                     StyleTech Windows
                                 </Link>
